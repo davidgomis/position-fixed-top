@@ -1,0 +1,31 @@
+.header{
+    color: orange;
+    padding: 0.2em 0 0.2em 10em;
+}
+
+.products{
+    width: 100%;
+    background-color: black;
+    padding: 0.5em 0;
+    text-align: center;
+    display: block;
+}
+
+.products-item{
+    color: white;
+    padding: 0.1em 1em;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.products-item a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 1.2em;
+}
+
+.prueba{
+    position: fixed;
+    top: -16px;
+}
